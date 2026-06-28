@@ -4,9 +4,7 @@
 
 Frontend Developer | React.js | CS Student @ Helwan University
 
-[LinkedIn](https://linkedin.com/in/meram-amr-7302a73a4)  
-|
-[Email](mailto:meramamr8@gmail.com)
+[LinkedIn](https://linkedin.com/in/meram-amr-7302a73a4) | [Email](mailto:meramamr8@gmail.com)
 
 </div>
 
